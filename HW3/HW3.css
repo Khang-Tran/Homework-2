@@ -1,0 +1,12 @@
+#myList{
+    margin: auto;
+}
+
+body{
+    margin: auto;
+    width: 50%;
+    border: 10px solid rgb(182, 182, 21);
+    padding: 10px;
+    background-color: rgb(191, 16, 214);
+    font-size: larger;
+}
